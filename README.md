@@ -3,8 +3,8 @@
 #### 介绍
 数据可视化大屏
 
-本人想`“砖研”`可视化大屏已久，无奈没找到合适的资源（懒），曾用`html+css+jquery，vue + datav`敲了一些示例，布局真是让人头疼
-![Alt text](src/assets/images/emm_02.jpg)
+本人想`“砖研”`可视化大屏已久，无奈没找到合适的资源（懒），曾用`html+css+jquery+echarts，vue + datav`敲了一些示例，布局真是让人头疼
+![Alt text](https://i.hd-r.cn/0e9965fc1eb4dbd168dc0f7eb0da5552.jpg)
 
 
 一个偶然的机会，看到程序员 `Sunday老师` 的视频，瞬间开启新大陆
@@ -14,7 +14,7 @@
 跟着 `Sunday 老师` 的视频一步一步敲出来（代码搬运工）
 
 在这里再次感谢程序员 `Sunday 老师`的无私奉献，链接附上↓
-![Alt text](src/assets/images/emm_01.jpg)
+![Alt text](https://i.hd-r.cn/5fec7765ce12721a0c616234be89c8cb.jpg)
 
 [2023 最新：ECharts 数据可视化大屏项目](https://www.bilibili.com/video/BV1yu411E7cm?p=1&vd_source=4c524e8e506ca061863d2041deba2db8)
 
@@ -41,4 +41,4 @@ npm run dev
 
 演示地址：[https://www.guaika.xyz](https://www.guaika.xyz)
 
-![gk_datav_demo.png](src/assets/images/gk_datav_demo.png.png)
+![gk_datav_demo.png](https://i.hd-r.cn/c28f224675a2ca8c3a68248c47a3b9be.png)
