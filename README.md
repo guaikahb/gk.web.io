@@ -37,8 +37,8 @@ npm run dev
 ```
 
 #### 效果
-本地部署地址：`http://gk.datav.com:89/`
+本地部署地址：[http://gk.datav.com:89](http://gk.datav.com:89)
 
-演示地址：`https://www.guaika.xyz/`
+演示地址：[https://www.guaika.xyz](https://www.guaika.xyz)
 
 ![gk_datav_demo.png](src/assets/images/gk_datav_demo.png.png)
