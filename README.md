@@ -1,5 +1,13 @@
 # 怪咖大数据平台
 
+#### new---变异版本-移动版
+> Time 2023-12-14
+- 新增移动版，根窗口适配PC和移动版，只是做了简单的优化；
+- 去除了可视化地图（移动端显示不全）；
+- 新增了路由模块
+
+![m_datav.gif](https://cdn.jsdelivr.net/npm/gk_drawing_bed/img/m_datav.gif)
+
 #### 介绍
 数据可视化大屏
 
@@ -42,4 +50,9 @@ npm run dev
 
 演示地址：[https://www.guaika.xyz](https://www.guaika.xyz)
 
-![gk_datav_demo.jpg](src/assets/images/gk_datav_demo.jpg)
+![gk_datav_demo.jpg](https://i.hd-r.cn/c28f224675a2ca8c3a68248c47a3b9be.png)
+
+
+博客地址: [怪咖工作室](https://www.wbdqc.cn)
+
+<span style="color:red;">如果你也觉得有趣，就点个star吧 🙏</span>
