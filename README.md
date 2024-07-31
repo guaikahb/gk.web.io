@@ -48,7 +48,7 @@ npm run dev
 
 本地部署地址：[http://gk.datav.com:89](http://gk.datav.com:89)
 
-演示地址：[https://www.guaika.xyz](https://www.guaika.xyz)
+演示地址：[https://gk.www.wbdqc.top](https://gk.www.wbdqc.top)
 
 ![gk_datav_demo.jpg](https://i.hd-r.cn/c28f224675a2ca8c3a68248c47a3b9be.png)
 
